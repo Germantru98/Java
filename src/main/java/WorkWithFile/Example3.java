@@ -1,4 +1,4 @@
-package patterns.WorkWithFile;
+package WorkWithFile;
 import java.io.FileReader;
 import java.util.Scanner;
 

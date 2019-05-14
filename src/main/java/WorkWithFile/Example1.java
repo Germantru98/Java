@@ -1,4 +1,4 @@
-package patterns.WorkWithFile;
+package WorkWithFile;
 import java.io.*;
 public class Example1 {
 
