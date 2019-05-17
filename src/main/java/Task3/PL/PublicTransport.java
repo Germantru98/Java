@@ -21,18 +21,20 @@ public class PublicTransport {
             }
         };
         Bus b1 = new Bus(5000,120,20,55,26,20);
-        Bus b2 = new Bus(5000,120,20,45,26,20);
-        Bus b3 = new Bus(5000,120,20,50,26,20);
+        ElectroBus b2 = new ElectroBus(5000,120,20,25,26,300,25);
+        ElectroBus b3 = new ElectroBus(5000,120,30,35,26,300,25);
         Bus b4 = new Bus(5000,120,20,35,26,20);
         BuyBus(b1);
-        park.add(b2);park.add(b3);park.add(b4);
+        BuyBus(b2);
+        BuyBus(b3);
+        BuyBus(b4);
         park.sort(comp);
         ShowAll();
 
 
     }
 
-    public static void BuyBus(Bus bus) {
+    public static void BuyBus(Car bus) {
         park.add(bus);
     }
 
