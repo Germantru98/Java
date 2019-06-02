@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca294697-1533-43c7-8a7a-cb778813b006" name="Default" comment="16.05.19">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task3/Classes/ElectroBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task3/Classes/ElectroBus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Task3/PL/PublicTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task3/PL/PublicTransport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3/Classes/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3/Classes/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3/Classes/ElectroBus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3/Interfaces/IMovable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3/PL/PublicTransport$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Task3/PL/PublicTransport.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WorkWithFile/Example1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WorkWithFile/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WorkWithFile/Example3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/app/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/app/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/buttons/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/buttons/MacOSButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/buttons/WindowsButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/checkboxes/Checkbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/checkboxes/MacOSCheckbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/checkboxes/WindowsCheckbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/factories/GUIFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/factories/MacOSFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Fabric/factories/WindowsFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/builders/Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/builders/CarBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/builders/CarManualBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/cars/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/cars/Manual.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/cars/Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/components/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/components/GPSNavigator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/components/Transmission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/components/TripComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/director/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/builder/director/Director.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/singleton/DemoSingleThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/singleton/Singleton.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,13 +16,14 @@
     <session id="-127882003">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.32" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -68,7 +34,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1430" />
+          <entry key="JAVA" value="1479" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -105,10 +71,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-              <folding>
-                <element signature="e#1276#1277#0" expanded="true" />
-                <element signature="e#1305#1306#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -116,14 +78,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task3/PL/PublicTransport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+            <state relative-caret-position="254">
+              <caret line="21" column="10" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="21" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1084#1085#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -237,15 +199,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Task3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Task3" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +207,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558027518304" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559484999326" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -418,8 +371,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -695,23 +649,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-          <folding>
-            <element signature="e#1276#1277#0" expanded="true" />
-            <element signature="e#1305#1306#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task3/PL/PublicTransport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        <state relative-caret-position="254">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="21" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
           </folding>
         </state>
       </provider>

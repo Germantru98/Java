@@ -20,7 +20,8 @@ public class PublicTransport {
                     return -1;
             }
         };
-        Bus b1 = new Bus(5000,120,20,55,26,20);
+        //Tests
+        Bus b1 = new Bus(5000,135,20,55,26,20);
         ElectroBus b2 = new ElectroBus(5000,120,20,25,26,300,25);
         ElectroBus b3 = new ElectroBus(5000,120,30,35,26,300,25);
         Bus b4 = new Bus(5000,120,20,35,26,20);
@@ -29,6 +30,9 @@ public class PublicTransport {
         BuyBus(b3);
         BuyBus(b4);
         park.sort(comp);
+        ShowAll();
+        SaleBus(b1);
+        System.out.println();
         ShowAll();
 
 
